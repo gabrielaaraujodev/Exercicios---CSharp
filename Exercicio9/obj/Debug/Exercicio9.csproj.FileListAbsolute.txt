@@ -1,0 +1,6 @@
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\bin\Debug\Exercicio9.exe.config
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\bin\Debug\Exercicio9.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\bin\Debug\Exercicio9.pdb
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\obj\Debug\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\obj\Debug\Exercicio9.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio9\obj\Debug\Exercicio9.pdb

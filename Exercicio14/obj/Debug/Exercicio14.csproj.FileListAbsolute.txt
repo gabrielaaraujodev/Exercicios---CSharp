@@ -1,0 +1,7 @@
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\bin\Debug\Exercicio14.exe.config
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\bin\Debug\Exercicio14.exe
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\bin\Debug\Exercicio14.pdb
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\obj\Debug\Exercicio14.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\obj\Debug\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\obj\Debug\Exercicio14.exe
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio14\obj\Debug\Exercicio14.pdb

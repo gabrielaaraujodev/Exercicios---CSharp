@@ -1,0 +1,14 @@
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\bin\Debug\Exercicio8.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\obj\Debug\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\obj\Debug\Exercicio8.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio8\obj\Debug\Exercicio8.pdb
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\bin\Debug\Exercicio8.exe
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\obj\Debug\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\obj\Debug\Exercicio8.exe
+C:\Users\Gabriel Araujo\Desktop\wetransfer_lista-60-exercicios_2024-04-05_2340\Exercicio8\obj\Debug\Exercicio8.pdb

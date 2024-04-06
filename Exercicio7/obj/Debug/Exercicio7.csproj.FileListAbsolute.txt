@@ -1,0 +1,6 @@
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Exercicio7\obj\Debug\Exercicio7.pdb

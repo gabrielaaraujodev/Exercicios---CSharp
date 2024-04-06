@@ -1,0 +1,7 @@
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\bin\Debug\Lista - 60 Exercícios.exe.config
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\bin\Debug\Lista - 60 Exercícios.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\bin\Debug\Lista - 60 Exercícios.pdb
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\obj\Debug\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\obj\Debug\Lista - 60 Exercícios.exe
+C:\Users\1499020\source\repos\Lista - 60 Exercícios\Lista - 60 Exercícios\obj\Debug\Lista - 60 Exercícios.pdb
